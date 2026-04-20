@@ -21,7 +21,7 @@ Tutors risk providing their time and resources only to have the student disappea
 How It Works (The Flow)
 
 EduTrust acts as a decentralized Middle Man:
-Escrow: The student deposits the course fee into the Smart Contract. The funds are locked and visible to both parties.
+Freighter Wallet: The student deposits the course fee into the Smart Contract. The funds are locked and visible to both parties.
 Mentorship: The tutor conducts the training sessions.
 Verification: Upon completion, the tutor registers a unique Certificate Hash on the blockchain via the contract.
 Automatic Release: Once the certificate is registered, the contract automatically releases the stored XLM/funds to the tutor's wallet.
