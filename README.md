@@ -4,8 +4,11 @@ EduTrust is a secure, blockchain-based intermediary designed to eliminate "mis-t
 Deployment Details
 
 Contract ID: CAFQ5YWPWRXBVTTMB6E25THJN3JIYKGVJZHDXUVCZQUQKSQKT5KE7V2C
+
 WASM Hash: 8dd04d4cfcb429d6c75869857e5a9db4ce9552393511a45d07a1e1fcb2cebcc0
+
 Deployment Transaction: View on Stellar.Expert
+
 Contract Interface: Interact via Stellar Laboratory
 
 Deployment Verification
